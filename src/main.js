@@ -11,4 +11,6 @@ let game = new Phaser.Game(config)
 let borderUISize = game.config.height / 15
 let borderPadding = borderUISize / 3
 
+//reserver the keyboard bindings
+let keyFIRE, keyRESET, keyLEFT, keyRIGHT
 
