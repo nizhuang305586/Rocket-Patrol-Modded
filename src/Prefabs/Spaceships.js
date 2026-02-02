@@ -4,6 +4,9 @@ class Spaceship extends Phaser.GameObjects.Sprite {
         scene.add.existing(this)
         this.points = pointValue
         this.moveSpeed = game.settings.spaceshipSpeed
+        this.isPowerShip = false 
+        this.normalTint = 0xFFFFFF
+        this.powerTint = 0x0000FF
     }
 
     update() {
@@ -16,5 +19,15 @@ class Spaceship extends Phaser.GameObjects.Sprite {
 
     reset() {
         this.x = game.config.width
+    }
+
+    makePowerShip() {
+        this.isPowerShip = true 
+        this.setTint(this.powerTint)
+    }
+
+    clearPowerShip() {
+        this.isPowerShip = false 
+        this.clearTint()
     }
 }

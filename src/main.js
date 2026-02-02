@@ -1,3 +1,26 @@
+/***********************************
+ * Nikolas Huang
+ * Rocket Patrol MODDED
+ * Approx time spent working: N/A
+ * 
+ * Mods Implemented:
+ * - Displayed a timer clock so the player knows how long is left - 3 points
+ * - Player gains +3 seconds on spaceship destroyed and -3 seconds on spaceship missed - 5 points
+ * - If Player hits a blue ship that appears periodically, gain rapid fire, being able to shoot 2x faster - 5 points
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
+
+
+
+
+
+
 let config = {
     type: Phaser.AUTO,
     width: 640,
