@@ -1,16 +1,19 @@
 /***********************************
  * Nikolas Huang
  * Rocket Patrol MODDED
- * Approx time spent working: N/A
+ * Approx time spent working: 7 HOURS
  * 
  * Mods Implemented:
  * - Displayed a timer clock so the player knows how long is left - 3 points
  * - Player gains +3 seconds on spaceship destroyed and -3 seconds on spaceship missed - 5 points
  * - If Player hits a blue ship that appears periodically, gain rapid fire, being able to shoot 2x faster - 5 points
+ * - Divided Novice and Expert, having MOUSE CONTROL (also can move rocket while traveling) on Novice,
+ *   And KEYBOARD CONTROL on Expert. - 5 points
  * 
  * 
  * 
- * 
+ * - All modded code and references were mixed with a lot of reading Phaser Documentation
+ *   to understand JavaScript as well as special keywords within Phaser.
  * 
  * 
  */
