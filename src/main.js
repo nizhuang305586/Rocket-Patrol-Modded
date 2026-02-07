@@ -1,7 +1,7 @@
 /***********************************
  * Nikolas Huang
  * Rocket Patrol MODDED
- * Approx time spent working: 7 HOURS
+ * Approx time spent working: 9 HOURS
  * 
  * Mods Implemented:
  * - Displayed a timer clock so the player knows how long is left - 3 points
