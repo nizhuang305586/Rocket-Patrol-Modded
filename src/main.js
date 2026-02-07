@@ -9,6 +9,9 @@
  * - If Player hits a blue ship that appears periodically, gain rapid fire, being able to shoot 2x faster - 5 points
  * - Divided Novice and Expert, having MOUSE CONTROL (also can move rocket while traveling) on Novice,
  *   And KEYBOARD CONTROL on Expert. - 5 points
+ * - Added a new and improved menu. - 3 points
+ * 
+ * Total: 21
  * 
  * 
  * 
